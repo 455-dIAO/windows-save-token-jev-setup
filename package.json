@@ -1,0 +1,19 @@
+{
+  "name": "windows-save-token-jev-setup",
+  "version": "1.0.0",
+  "description": "Install the Windows save-token-jev setup Codex Skill into the current user's Codex home.",
+  "type": "module",
+  "bin": {
+    "windows-save-token-jev-setup": "scripts/install-skill.mjs"
+  },
+  "files": [
+    "README.md",
+    "SKILL.md",
+    "agents",
+    "references",
+    "scripts"
+  ],
+  "engines": {
+    "node": ">=20"
+  }
+}
