@@ -1,0 +1,8 @@
+*.log
+*.tmp
+.env
+.env.*
+node_modules/
+work/
+backups/
+*.zip

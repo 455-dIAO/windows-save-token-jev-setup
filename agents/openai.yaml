@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows save-token-jev Setup"
+  short_description: "Safely install and verify Codex Jev compaction"
+  default_prompt: "Use $windows-save-token-jev-setup to install, configure, and verify user-level save-token-jev on Windows without exposing secrets."
