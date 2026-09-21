@@ -1,4 +1,4 @@
-# Windows save-token-jev setup
+# TypeSafe：Jev   Jev决策模型安装调用使用  Windows save-token-jev setup
 
 这是一个面向 Windows Codex 的安装与验证 Skill，用来安全部署用户级
 [`save-token-jev`](https://github.com/IAmUnbounded/save-token-jev-clean) Hooks。
